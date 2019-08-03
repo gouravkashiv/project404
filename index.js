@@ -1,1 +1,0 @@
-var username = prompt("project 404 welcomes u.");
