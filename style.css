@@ -1,9 +1,15 @@
 h1{
 	text-align: center;
 }
+
+
+
 body{
 	background-color: purple;
-	h3{
-		color: green;
-	}
 }
+
+
+
+
+h3{
+	color:green;}
