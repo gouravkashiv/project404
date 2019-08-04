@@ -1,16 +1,15 @@
 h1{
 	text-align: center;
 }
-
 body{
 	background-color: yellow;
 }
-
-
-
+img{
+	width: 50px;
+}
 h3{
-	color:green;}
-
-h4{
-	color:yellow;
+	transform: rotate(90deg);
+}
+h5{
+	color: rgb(0,0,0);
 }
