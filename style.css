@@ -4,12 +4,20 @@ h1{
 body{
 	background-color: yellow;
 }
-img{
-	width: 50px;
-}
+
 h3{
 	transform: rotate(90deg);
 }
 h5{
 	color: rgb(0,0,0);
+}
+
+
+img {
+	transition: all 1s;
+	justify-content: center;
+}
+
+img:hover {
+	transform: scale(1.1);
 }
