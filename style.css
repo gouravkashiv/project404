@@ -26,13 +26,10 @@ body{
 
 img {
 	transition: all 1s;
-<<<<<<< Updated upstream
-	padding: 42px
-=======
 	padding: 20px 20px 20px 20px;
-	display: wrap;
+	display: flex;
 	flex-wrap: wrap;
->>>>>>> Stashed changes
+
 }
 
 img:hover {
@@ -53,7 +50,7 @@ h3
 transform: rotate(90deg);
 }
 am{
-	padding: 20px;
+  padding: 20px;
   font-size: 30px;
   width: 50px;
   text-align: center;
