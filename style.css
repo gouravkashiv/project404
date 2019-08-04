@@ -26,7 +26,9 @@ body{
 
 img {
 	transition: all 1s;
-	padding: 42px
+	padding: 20px 20px 20px 20px;
+	display: flex;
+	flex-wrap: wrap;
 }
 
 img:hover {
@@ -42,7 +44,4 @@ p
 {
 	float:right;
 }
-h3
-{
-transform: rotate(90deg);
-}
+
