@@ -2,7 +2,7 @@ h1{
 	text-align: center;
 }
 body{
-	background-color: yellow;
+	background-color:#9badc7;
 }
 
 h3{
@@ -26,4 +26,9 @@ img {
 
 img:hover {
 	transform: scale(1.1);
+}
+
+#bg
+{
+	background: linear-gradient(to left, rgba(7,27,82,1) 0%, rgba(0,128,128,1) 100%); 
 }
