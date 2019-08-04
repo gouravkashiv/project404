@@ -1,13 +1,9 @@
-h1{
-	text-align: center;
-}
+
 body{
 	background-color:#9badc7;
 }
 
-h3{
-	transform: rotate(90deg);
-}
+
 #con2 {
 	font-family: fantasy;
 	font-size: 3em;
@@ -41,4 +37,9 @@ img:hover {
 #bg
 {
 	background: linear-gradient(to left, rgba(7,27,82,1) 0%, rgba(0,128,128,1) 100%); 
+}
+
+p
+{
+	float:right;
 }
