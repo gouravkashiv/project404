@@ -39,16 +39,19 @@ img:hover {
 #bg
 {
 	background: linear-gradient(to left, rgba(7,27,82,1) 0%, rgba(0,128,128,1) 100%); 
+	z-index: -1;
 }
 
 p
 {
 	float:right;
 }
-h3
+
+#float-right
 {
-transform: rotate(90deg);
+	float:right;
 }
+
 am{
   padding: 20px;
   font-size: 30px;
