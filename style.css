@@ -29,6 +29,7 @@ img {
 	padding: 20px 20px 20px 20px;
 	display: flex;
 	flex-wrap: wrap;
+        width: 100%;
 }
 
 img:hover {
@@ -51,16 +52,15 @@ p
 	float:right;
 }
 
-am{
-  padding: 20px;
-  font-size: 30px;
-  width: 50px;
-  text-align: center;
-  text-decoration: none;
-  margin: 5px 2px;
+ #jerry {
+  width: 200px;
+  height: 200px;
+  background: yellow;
+  -webkit-transition: width 2s, height 2s;
+  transition: width 2s, height 2s;
+  color:red;
 }
-am-instagram
-{
-	background: #125688;
-  color: white;
+ #jerry:hover {
+  width: 500px;
+  height:300px;
 }
